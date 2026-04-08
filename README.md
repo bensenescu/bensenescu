@@ -1,8 +1,9 @@
 ## Hi I'm Ben 👋
 
 ### Projects
+- [OpenSEO](https://github.com/every-app/open-seo) - SEO on your terms. Opensource alternative to Semrush and Ahrefs
+- [Sam - AI Content Writing Agent](https://github.com/every-app/sam) - Sam is a minimal, customizable, and extendable agent that works with Claude Code + OpenCode.
 - [Every App](https://github.com/every-app/every-app) - The open source app store.
-  - [OpenSEO](https://github.com/every-app/open-seo) - Own your SEO. Research keywords and competitors on your terms.
   - [Todos](https://github.com/every-app/every-app/tree/main/apps/todo-app) - Minimalist todo list app. Mobile & keyboard friendly.
   - [Workout Tracker](https://github.com/every-app/every-app/tree/main/apps/workout-tracker) - Track workouts and create custom programs.
   - [Chef](https://github.com/every-app/every-app/tree/main/apps/chef) - AI cooking assisstant and recipe manager.
