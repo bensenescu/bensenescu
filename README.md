@@ -2,7 +2,7 @@
 
 ### Projects
 - [OpenSEO](https://github.com/every-app/open-seo) - SEO on your terms. Open source alternative to Semrush and Ahrefs
-- [Downy] - Multi Agent OpenClaw alternative that you can access from any device
+- [Downy](https://github.com/bensenescu/downy) - Multi Agent OpenClaw alternative that you can access from any device
 - [Sam](https://github.com/every-app/sam) - AI Content Writing Agent that works with Claude Code or Codex
 - [Every App](https://github.com/every-app/every-app) - The open source app store.
   - [Todos](https://github.com/every-app/every-app/tree/main/apps/todo-app) - Minimalist todo list app. Mobile & keyboard friendly.
